@@ -13,7 +13,7 @@
 
 		<br />
 		<br /> <select name="operations">
-			<option value="add" selected="selected">Addition</option>
+			<option value="add" selected="selected">Add</option>
 			<option value="sub">Subtraction</option>
 			<option value="mul">Multiplication</option>
 			<option value="div">Division</option>
